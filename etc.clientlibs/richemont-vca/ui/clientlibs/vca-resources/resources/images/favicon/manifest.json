@@ -1,0 +1,22 @@
+{
+    "name": "Van Cleef & Arpels",
+    "description": "Van Cleef & Arpels web application.",
+    "short_name": "Van Cleef & Arpels",
+    "display": "standalone",
+    "start_url": "/?utm_source=pwa",
+    "scope": "/",
+    "background_color": "#f5f5f5",
+    "theme_color": "#eef2e3",
+    "icons": [
+        {
+            "src": "/etc.clientlibs/richemont-vca/ui/clientlibs/vca-resources/resources/images/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/etc.clientlibs/richemont-vca/ui/clientlibs/vca-resources/resources/images/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
